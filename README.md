@@ -46,7 +46,7 @@ interpret these qualitatively with regard to their (near-)duplicate
 status in order to decide upon the cut-off value for the similarity
 measure and to develop a more sophisticated decision rule for the
 detection of duplicates with the help of the meta-data (see the
-[Codebook](codebook.md). We leave out duplicate-pairs in which one
+[Codebook](codebook.md)). We leave out duplicate-pairs in which one
 article appears on page 1 and the other on a following page in the
 same newspaper (since these "duplicated" articles represent teasers on
 the front-page which we want to keep for qualitative reasons).
@@ -98,5 +98,4 @@ the corpus from 24,743 that have been downloaded from LexisNexis to
 | several editions         | 1,705      |
 | transitive clusters      | 2,244      |
 | further on-line content  | 3,089      |
-|--------------------------|------------|
 | **final corpus**         | **15,264** |

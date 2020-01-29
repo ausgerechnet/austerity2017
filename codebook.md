@@ -33,7 +33,7 @@ linguistic forms.
 	2. If the pair does contain a (near-)duplicate, only one text
 	should be kept within the corpus. Keep the longer article and put
 	an "x" into the column of this text.
-	3. Special rules for the Guardian for the steps 2.1 and 2.2:
+	3. Special rules for the Guardian for the steps 2 (i) and 2 (ii):
 	    1. If a pair of (near)duplicates contains both printed and
 		online content, keep always the text for the printed version
 		2. Take care about the year that an article has been
