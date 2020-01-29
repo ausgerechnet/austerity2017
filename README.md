@@ -90,8 +90,8 @@ The whole corpus preparation thus reduced the number of articles in
 the corpus from 24,743 that have been downloaded from LexisNexis to
 15,264 (including 289 multimodal articles).
 
+| original download        | 24,743     |
 |--------------------------|------------|
-| **original download**    | **24,743** |
 | download errors          | 1,057      |
 | unwanted on-line content | 910        |
 | on-line and print        | 474        |
